@@ -1,8 +1,8 @@
 # Awesome R with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,352 | 🐛 69 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,588 | 🐛 68 | 📅 2026-01-28
 
-A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 71,621 | 🐛 10 | 🌐 Python | 📅 2026-01-29.
+A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 71,630 | 🐛 10 | 🌐 Python | 📅 2026-01-29.
 
 <p><img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">
 for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/top_downloads_2016/top_packages">Top 50</a> CRAN downloaded packages or repos with 400+
@@ -55,7 +55,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## 2020
 
 * [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
-* [gt](https://github.com/rstudio/gt) ⭐ 2,136 | 🐛 321 | 🌐 R | 📅 2026-02-07 - Easily generate information-rich, publication-quality tables from R
+* [gt](https://github.com/rstudio/gt) ⭐ 2,136 | 🐛 321 | 🌐 R | 📅 2026-02-10 - Easily generate information-rich, publication-quality tables from R
 * [lightgbm <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/lightgbm/index.html) - Light Gradient Boosting Machine.
 * [torch](https://cran.r-project.org/web/packages/torch/index.html) - Tensors and Neural Networks with 'GPU' Acceleration.
 
@@ -69,7 +69,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 *Integrated Development Environment*
 
-* [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/randy3k/radian) ⭐ 2,242 | 🐛 211 | 🌐 Python | 📅 2025-05-15 (formerly rtichoke) - A modern R console with syntax highlighting.
+* [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/randy3k/radian) ⭐ 2,243 | 🐛 211 | 🌐 Python | 📅 2025-05-15 (formerly rtichoke) - A modern R console with syntax highlighting.
 * [IRkernel <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/IRkernel/IRkernel) ⭐ 1,693 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2024-04-30 - R kernel for Jupyter.
 * [Nvim-R <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/jalvesaq/Nvim-R) ⭐ 986 | 🐛 3 | 🌐 Vim Script | 📅 2026-02-09 - Neovim plugin for R.
 * [Sublime Text + R-IDE](https://github.com/REditorSupport/sublime-ide-r) ⭐ 114 | 🐛 26 | 🌐 Python | 📅 2025-06-07 - Add-on package for Sublime Text 2/3.
@@ -99,10 +99,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 *Packages for cooking data.*
 
-* [dplyr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/dplyr) ⭐ 4,997 | 🐛 78 | 🌐 R | 📅 2026-02-10 - Fast data frames manipulation and database query.
-* [data.table <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/Rdatatable/data.table) ⭐ 3,849 | 🐛 962 | 🌐 R | 📅 2026-02-07 - Fast data manipulation in a short and flexible syntax.
+* [dplyr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/dplyr) ⭐ 4,998 | 🐛 78 | 🌐 R | 📅 2026-02-10 - Fast data frames manipulation and database query.
+* [data.table <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/Rdatatable/data.table) ⭐ 3,850 | 🐛 962 | 🌐 R | 📅 2026-02-07 - Fast data manipulation in a short and flexible syntax.
 * [tidyverse](https://github.com/hadley/tidyverse) ⭐ 1,779 | 🐛 12 | 🌐 R | 📅 2025-06-18 - Easily install and load packages from the tidyverse.
-* [tidyr](https://github.com/hadley/tidyr) ⭐ 1,426 | 🐛 60 | 🌐 R | 📅 2026-01-09 - Easily tidy data with spread and gather functions.
+* [tidyr](https://github.com/hadley/tidyr) ⭐ 1,427 | 🐛 60 | 🌐 R | 📅 2026-01-09 - Easily tidy data with spread and gather functions.
 * [lubridate](https://github.com/tidyverse/lubridate) ⭐ 783 | 🐛 111 | 🌐 R | 📅 2026-02-09 - A set of functions to work with dates and times.
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) ⭐ 692 | 🐛 47 | 🌐 R | 📅 2026-01-30 - Join tables together on inexact matching.
 * [stringr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/stringr) ⭐ 656 | 🐛 7 | 🌐 R | 📅 2025-11-04 - Consistent API for string processing, built on top of stringi.
@@ -138,11 +138,11 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 *Packages for showing data.*
 
-* [ggplot2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) ⭐ 6,880 | 🐛 98 | 🌐 R | 📅 2026-02-04 - An implementation of the Grammar of Graphics.
-* [Patchwork](https://github.com/thomasp85/patchwork) ⭐ 2,585 | 🐛 75 | 🌐 R | 📅 2025-08-25 - Combine separate ggplots into the same graphic.
+* [ggplot2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/ggplot2) ⭐ 6,881 | 🐛 98 | 🌐 R | 📅 2026-02-04 - An implementation of the Grammar of Graphics.
+* [Patchwork](https://github.com/thomasp85/patchwork) ⭐ 2,585 | 🐛 74 | 🌐 R | 📅 2025-08-25 - Combine separate ggplots into the same graphic.
 * [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) ⭐ 2,153 | 🐛 71 | 🌐 R | 📅 2026-02-07 - ggplot2 Based Plots with Statistical Details
 * [gganimate](https://github.com/dgrtwo/gganimate) ⭐ 1,979 | 🐛 86 | 🌐 R | 📅 2025-09-04 - Create easy animations with ggplot2.
-* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) ⭐ 1,329 | 🐛 35 | 🌐 R | 📅 2025-04-30 -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) ⭐ 1,330 | 🐛 35 | 🌐 R | 📅 2025-04-30 -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 * [ggrepel](https://github.com/slowkow/ggrepel) ⭐ 1,250 | 🐛 24 | 🌐 R | 📅 2026-01-02 - Repel overlapping text labels away from each other.
 * [ggtree](https://github.com/GuangchuangYu/ggtree) ⭐ 918 | 🐛 189 | 🌐 R | 📅 2026-01-12 - Visualization and annotation of phylogenetic tree.
 * [waffle](https://github.com/hrbrmstr/waffle) ⭐ 786 | 🐛 57 | 🌐 R | 📅 2024-01-08 -  🍁 Make waffle (square pie) charts in R.
@@ -178,7 +178,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [ggvis <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/ggvis) ⚠️ Archived - Interactive grammar of graphics for R.
 * [formattable <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/renkun-ken/formattable) ⭐ 704 | 🐛 66 | 🌐 HTML | 📅 2026-01-22 - Formattable Data Structures.
 * [timevis](https://github.com/daattali/timevis) ⭐ 678 | 🐛 3 | 🌐 R | 📅 2024-08-18 - Create fully interactive timeline visualizations.
-* [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 618 | 🐛 175 | 🌐 JavaScript | 📅 2026-02-04 - R wrapper to Echarts version 4
+* [echarts4r](https://github.com/JohnCoene/echarts4r) ⭐ 619 | 🐛 174 | 🌐 R | 📅 2026-02-10 - R wrapper to Echarts version 4
 * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 562 | 🐛 154 | 🌐 JavaScript | 📅 2025-09-08 - Using vis.js library for network visualization.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) ⭐ 410 | 🐛 49 | 🌐 JavaScript | 📅 2022-02-03 - R interface to wordcloud2.js.
 * [heatmaply](https://github.com/talgalili/heatmaply) ⭐ 405 | 🐛 38 | 🌐 R | 📅 2025-11-29 - Interactive heatmaps with D3.
@@ -219,10 +219,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 *Packages to surf the web.*
 
-* [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) ⭐ 5,599 | 🐛 871 | 🌐 R | 📅 2026-02-10 - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 848 | 🐛 4 | 🌐 R | 📅 2022-10-07
+* [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) ⭐ 5,599 | 🐛 872 | 🌐 R | 📅 2026-02-10 - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 848 | 🐛 4 | 🌐 R | 📅 2022-10-07
 * [rvest <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/rvest) ⭐ 1,515 | 🐛 37 | 🌐 R | 📅 2025-09-09 - Simple web scraping for R, using CSSSelect or XPath syntax.
-* [plumber](https://github.com/trestletech/plumber) ⭐ 1,435 | 🐛 125 | 🌐 R | 📅 2026-02-09 - A library to expose existing R code as web API.
-* [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) ⭐ 983 | 🐛 8 | 🌐 R | 📅 2024-10-11 - User-friendly RCurl wrapper.
+* [plumber](https://github.com/trestletech/plumber) ⭐ 1,436 | 🐛 125 | 🌐 R | 📅 2026-02-09 - A library to expose existing R code as web API.
+* [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) ⭐ 983 | 🐛 9 | 🌐 R | 📅 2026-02-10 - User-friendly RCurl wrapper.
 * [shinyjs](https://github.com/daattali/shinyjs) ⭐ 749 | 🐛 6 | 🌐 R | 📅 2026-01-17 -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) ⭐ 353 | 🐛 49 | 🌐 R | 📅 2020-05-22 - Access to Facebook API via R.
 * [httpuv](https://github.com/rstudio/httpuv) ⭐ 248 | 🐛 59 | 🌐 C | 📅 2025-08-13 - HTTP and WebSocket server library.
@@ -263,7 +263,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages for other languages.*
 
 * [JuliaCall](https://github.com/Non-Contradiction/JuliaCall) ⭐ 285 | 🐛 49 | 🌐 HTML | 📅 2025-12-15 - Seamless Integration Between R and Julia.
-* [V8](https://github.com/jeroenooms/V8) ⭐ 206 | 🐛 19 | 🌐 C++ | 📅 2026-01-28 - Embedded JavaScript Engine.
+* [V8](https://github.com/jeroenooms/V8) ⭐ 207 | 🐛 19 | 🌐 C++ | 📅 2026-01-28 - Embedded JavaScript Engine.
 * [RJulia](https://github.com/armgong/RJulia) ⭐ 145 | 🐛 11 | 🌐 C | 📅 2017-10-20 - R package Call Julia.
 * [runr](https://github.com/yihui/runr) ⭐ 88 | 🐛 10 | 🌐 R | 📅 2017-09-14 - Run Julia and Bash from R.
 * [RcppOctave](https://github.com/renozao/RcppOctave) ⭐ 18 | 🐛 13 | 🌐 M4 | 📅 2021-02-06 - Seamless Interface to Octave and Matlab.
@@ -283,7 +283,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages for managing data.*
 
 * [odbc](https://github.com/r-dbi/odbc) ⭐ 407 | 🐛 81 | 🌐 C++ | 📅 2026-01-16 - Connect to ODBC databases (using the DBI interface)
-* [RPostgres](https://github.com/r-dbi/RPostgres) ⭐ 337 | 🐛 30 | 🌐 R | 📅 2026-02-07 - an DBI-compliant interface to the postgres database.
+* [RPostgres](https://github.com/r-dbi/RPostgres) ⭐ 337 | 🐛 30 | 🌐 R | 📅 2026-02-11 - an DBI-compliant interface to the postgres database.
 * [DBI](https://github.com/rstats-db/DBI) ⭐ 313 | 🐛 18 | 🌐 R | 📅 2026-01-15 - Defines a common interface between the R and database management systems.
 * [mongolite](https://github.com/jeroenooms/mongolite) ⭐ 288 | 🐛 78 | 🌐 C | 📅 2025-04-06 - Streaming Mongo Client for R
 * [elastic](https://github.com/ropensci/elastic) ⚠️ Archived - Wrapper for the Elasticsearch HTTP API
@@ -306,15 +306,15 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages for making R cleverer.*
 
 * [MXNet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/dmlc/mxnet/tree/master/R-package) ⚠️ Archived - MXNet brings flexible and efficient GPU computing and state-of-art deep learning to R.
-* [prophet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/facebookincubator/prophet) ⭐ 20,006 | 🐛 460 | 🌐 Python | 📅 2026-02-09 - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+* [prophet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/facebookincubator/prophet) ⭐ 20,007 | 🐛 460 | 🌐 Python | 📅 2026-02-09 - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 * [Machine Learning For Hackers <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/johnmyleswhite/ML_for_Hackers) ⭐ 3,817 | 🐛 36 | 🌐 R | 📅 2019-05-26
 * [AnomalyDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/AnomalyDetection) ⚠️ Archived - AnomalyDetection R package from Twitter.
-* [CausalImpact <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/google/CausalImpact) ⭐ 1,802 | 🐛 37 | 🌐 R | 📅 2025-09-26 - Causal inference using Bayesian structural time-series models.
+* [CausalImpact <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/google/CausalImpact) ⭐ 1,804 | 🐛 37 | 🌐 R | 📅 2025-09-26 - Causal inference using Bayesian structural time-series models.
 * [mlr](https://github.com/mlr-org/mlr) ⭐ 1,680 | 🐛 13 | 🌐 R | 📅 2025-08-22 - Extensible framework for classification, regression, survival analysis and clustering \[DEPRECIATED]
-* [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/mlr-org/mlr3) ⭐ 1,054 | 🐛 24 | 🌐 R | 📅 2026-02-09 -  Next generation extensible framework for classification, regression, survival analysis and clustering
+* [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/mlr-org/mlr3) ⭐ 1,055 | 🐛 24 | 🌐 R | 📅 2026-02-09 -  Next generation extensible framework for classification, regression, survival analysis and clustering
 * [ranger](https://github.com/imbs-hl/ranger) ⭐ 805 | 🐛 98 | 🌐 C++ | 📅 2026-02-01 - A Fast Implementation of Random Forests.
 * [BreakoutDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/BreakoutDetection) ⚠️ Archived - Breakout Detection via Robust E-Statistics from Twitter.
-* [lme4 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/lme4/lme4) ⭐ 670 | 🐛 207 | 🌐 HTML | 📅 2026-02-09 - Mixed-effects models
+* [lme4 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/lme4/lme4) ⭐ 670 | 🐛 207 | 🌐 HTML | 📅 2026-02-10 - Mixed-effects models
 * [fable](https://github.com/tidyverts/fable/) ⭐ 579 | 🐛 67 | 🌐 R | 📅 2026-01-28 - a collection of commonly used univariate and multivariate time series forecasting models
 * [xgboost <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/tqchen/xgboost/tree/master/R-package) ⭐ 579 | 🐛 0 | 🌐 C++ | 📅 2018-07-04 - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
 * [survminer](https://github.com/kassambara/survminer) ⭐ 560 | 🐛 292 | 🌐 R | 📅 2025-09-03 - Survival Analysis & Visualization
@@ -490,7 +490,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
-* [lme4](https://github.com/lme4/lme4) ⭐ 670 | 🐛 207 | 🌐 HTML | 📅 2026-02-09 - Generalized mixed-effects models.
+* [lme4](https://github.com/lme4/lme4) ⭐ 670 | 🐛 207 | 🌐 HTML | 📅 2026-02-10 - Generalized mixed-effects models.
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
 * [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
 
@@ -521,7 +521,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages to explore the earth.*
 
 * [ggmap](https://github.com/dkahle/ggmap) ⭐ 778 | 🐛 142 | 🌐 R | 📅 2025-08-31 -  Plotting maps in R with ggplot2.
-* [tigris](https://github.com/walkerke/tigris) ⭐ 353 | 🐛 23 | 🌐 R | 📅 2025-07-18 - Download and use Census TIGER/Line shapefiles in R
+* [tigris](https://github.com/walkerke/tigris) ⭐ 353 | 🐛 24 | 🌐 R | 📅 2025-07-18 - Download and use Census TIGER/Line shapefiles in R
 * [REmap](https://github.com/Lchiffon/REmap) ⭐ 258 | 🐛 31 | 🌐 JavaScript | 📅 2019-12-06 - R interface to the JavaScript library ECharts for interactive map data visualization.
 * [gstat](https://github.com/edzer/gstat) ⭐ 206 | 🐛 50 | 🌐 C | 📅 2026-01-22 - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
 * [spatstat](https://github.com/spatstat/spatstat) ⭐ 205 | 🐛 0 | 🌐 R | 📅 2026-02-03 - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
@@ -542,9 +542,9 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 *Packages for packages.*
 
-* [devtools <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) ⭐ 2,497 | 🐛 28 | 🌐 R | 📅 2026-02-03 - Tools to make an R developer's life easier.
+* [devtools <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) ⭐ 2,497 | 🐛 18 | 🌐 R | 📅 2026-02-11 - Tools to make an R developer's life easier.
 * [lintr](https://github.com/jimhester/lintr) ⭐ 1,271 | 🐛 303 | 🌐 R | 📅 2026-02-06 - Static code analysis for R to enforce code style.
-* [renv <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/renv) ⭐ 1,131 | 🐛 212 | 🌐 R | 📅 2026-02-10 - Make your R projects more isolated, portable, and reproducible.
+* [renv <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/renv) ⭐ 1,131 | 🐛 214 | 🌐 R | 📅 2026-02-11 - Make your R projects more isolated, portable, and reproducible.
 * [box <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klmr/box) ⭐ 947 | 🐛 69 | 🌐 R | 📅 2025-11-25 - A modern module system for R.
 * [testthat <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/testthat) ⭐ 926 | 🐛 15 | 🌐 R | 📅 2026-01-22 - An R package to make testing fun.
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) ⭐ 867 | 🐛 0 | 🌐 R | 📅 2024-08-18 - List of RStudio addins.
@@ -574,7 +574,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 *Handy Data Packages*
 
-* [engsoccerdata](https://github.com/jalapic/engsoccerdata) ⭐ 775 | 🐛 27 | 🌐 R | 📅 2026-02-08 - English and European soccer results 1871-2016.
+* [engsoccerdata](https://github.com/jalapic/engsoccerdata) ⭐ 775 | 🐛 28 | 🌐 R | 📅 2026-02-08 - English and European soccer results 1871-2016.
 * [gapminder](http://github.com/jennybc/gapminder) ⭐ 303 | 🐛 0 | 🌐 R | 📅 2025-06-12 - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
 * [RCOBOLDI](https://github.com/thospfuller/rcoboldi) ⭐ 15 | 🐛 1 | 🌐 COBOL | 📅 2024-08-07 - Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via [Drat](https://github.com/thospfuller/drat) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2022-06-04 and [DockerHub](https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio).
 * [ICON](https://github.com/rrrlw/ICON) ⭐ 8 | 🐛 4 | 🌐 R | 📅 2021-05-14 - complex systems & networks datasets from the Index of COmplex Networks (ICON) database [webpage](http://icon.colorado.edu).
@@ -695,7 +695,7 @@ Where to discover new R-esources.
 
 *Great resources for learning domain knowledge.*
 
-* [Posts](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) ⭐ 6,415 | 🐛 20 | 🌐 R | 📅 2025-09-18 - Great R blog posts or Rticles.
+* [Posts](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) ⭐ 6,416 | 🐛 20 | 🌐 R | 📅 2025-09-18 - Great R blog posts or Rticles.
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) ⭐ 3,943 | 🐛 15 | 🌐 R | 📅 2026-01-12 - Network Analysis related resources.
 * [RStudio Addins](https://github.com/daattali/addinslist) ⭐ 867 | 🐛 0 | 🌐 R | 📅 2024-08-18 - List of RStudio addins.
 * [RStartHere](https://github.com/rstudio/RStartHere) ⭐ 664 | 🐛 6 | 🌐 R | 📅 2019-09-16 - A guide to some of the most useful R packages, organized by workflow.
@@ -727,15 +727,15 @@ R communities and package collections (in alphabetical order):
 
 ## 2017
 
-* [prophet](https://github.com/facebookincubator/prophet) ⭐ 20,006 | 🐛 460 | 🌐 Python | 📅 2026-02-09 - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-* [Patchwork](https://github.com/thomasp85/patchwork) ⭐ 2,585 | 🐛 75 | 🌐 R | 📅 2025-08-25 - Combine separate ggplots into the same graphic.
+* [prophet](https://github.com/facebookincubator/prophet) ⭐ 20,007 | 🐛 460 | 🌐 Python | 📅 2026-02-09 - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+* [Patchwork](https://github.com/thomasp85/patchwork) ⭐ 2,585 | 🐛 74 | 🌐 R | 📅 2025-08-25 - Combine separate ggplots into the same graphic.
 * [tidyverse](https://github.com/tidyverse/tidyverse) ⭐ 1,779 | 🐛 12 | 🌐 R | 📅 2025-06-18 - Easily install and load packages from the tidyverse
 * [blogdown](https://github.com/rstudio/blogdown) ⭐ 1,779 | 🐛 29 | 🌐 R | 📅 2026-01-18 - Create Blogs and Websites with R Markdown
 * [reticulate](https://github.com/rstudio/reticulate) ⭐ 1,738 | 🐛 474 | 🌐 R | 📅 2026-01-29 - R Interface to Python
 * [xaringan](https://github.com/yihui/xaringan) ⭐ 1,523 | 🐛 44 | 🌐 CSS | 📅 2025-08-18 - Create HTML5 slides with R Markdown and the JavaScript library
 * [purrr](https://github.com/tidyverse/purrr) ⭐ 1,379 | 🐛 30 | 🌐 R | 📅 2026-01-09 - A functional programming toolkit for R
-* [tensorflow](https://github.com/rstudio/tensorflow) ⭐ 1,340 | 🐛 40 | 🌐 R | 📅 2025-08-22 -  TensorFlow for R
-* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) ⭐ 1,329 | 🐛 35 | 🌐 R | 📅 2025-04-30 -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
+* [tensorflow](https://github.com/rstudio/tensorflow) ⭐ 1,341 | 🐛 40 | 🌐 R | 📅 2025-08-22 -  TensorFlow for R
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) ⭐ 1,330 | 🐛 35 | 🌐 R | 📅 2025-04-30 -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
 * [lintr](https://github.com/jimhester/lintr) ⭐ 1,271 | 🐛 303 | 🌐 R | 📅 2026-02-06 - Static Code Analysis for R
 * [reprex](https://github.com/jennybc/reprex) ⭐ 749 | 🐛 24 | 🌐 R | 📅 2026-01-29 - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 * [glue](https://github.com/tidyverse/glue) ⭐ 742 | 🐛 6 | 🌐 R | 📅 2025-10-20 -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
@@ -744,8 +744,8 @@ R communities and package collections (in alphabetical order):
 
 # Other Awesome Lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,207 | 🐛 43 | 🌐 Ruby | 📅 2024-06-02
-* [lists](https://github.com/jnv/lists) ⭐ 10,949 | 🐛 7 | 📅 2025-05-20
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,210 | 🐛 43 | 🌐 Ruby | 📅 2024-06-02
+* [lists](https://github.com/jnv/lists) ⭐ 10,951 | 🐛 7 | 📅 2025-05-20
 * [awesome-rshiny](https://github.com/grabear/awesome-rshiny) ⭐ 848 | 🐛 4 | 🌐 R | 📅 2022-10-07
 
 # Contributing
