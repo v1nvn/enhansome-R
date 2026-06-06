@@ -390,7 +390,7 @@
             "last_commit": "2025-06-18T20:15:42Z",
             "owner": "tidyverse",
             "repo": "tidyverse",
-            "stars": 1794
+            "stars": 1796
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2025-12-08T14:57:36Z",
             "owner": "wesm",
             "repo": "feather",
-            "stars": 2757
+            "stars": 2758
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-04-22T12:15:25Z",
             "owner": "tidyverse",
             "repo": "ggplot2",
-            "stars": 6944
+            "stars": 6945
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2026-05-03T09:46:52Z",
             "owner": "IndrajeetPatil",
             "repo": "ggstatsplot",
-            "stars": 2188
+            "stars": 2189
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2024-10-14T05:33:58Z",
             "owner": "taiyun",
             "repo": "corrplot",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -997,10 +997,10 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-04-16T21:34:27Z",
+            "last_commit": "2026-06-05T12:45:41Z",
             "owner": "plotly",
             "repo": "plotly.R",
-            "stars": 2670
+            "stars": 2671
           }
         },
         {
@@ -1115,7 +1115,7 @@
             "last_commit": "2026-06-03T15:50:15Z",
             "owner": "yihui",
             "repo": "knitr",
-            "stars": 2454
+            "stars": 2453
           }
         },
         {
@@ -1871,7 +1871,7 @@
             "last_commit": "2019-08-30T19:49:16Z",
             "owner": "twitter",
             "repo": "AnomalyDetection",
-            "stars": 3610
+            "stars": 3609
           }
         },
         {
@@ -1955,7 +1955,7 @@
             "last_commit": "2017-06-29T07:34:33Z",
             "owner": "Jason2Brownlee",
             "repo": "CleverAlgorithmsMachineLearning",
-            "stars": 242
+            "stars": 241
           }
         },
         {
@@ -2139,7 +2139,7 @@
             "last_commit": "2026-06-05T00:48:07Z",
             "owner": "lme4",
             "repo": "lme4",
-            "stars": 687
+            "stars": 688
           }
         },
         {
@@ -2177,7 +2177,7 @@
             "last_commit": "2019-05-26T16:52:29Z",
             "owner": "johnmyleswhite",
             "repo": "ML_for_Hackers",
-            "stars": 3738
+            "stars": 3737
           }
         },
         {
@@ -2221,7 +2221,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20809
+            "stars": 20808
           }
         },
         {
@@ -2482,7 +2482,7 @@
             "last_commit": "2025-12-01T09:36:22Z",
             "owner": "dselivanov",
             "repo": "text2vec",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -2909,7 +2909,7 @@
             "last_commit": "2026-04-30T16:20:47Z",
             "owner": "r-lib",
             "repo": "devtools",
-            "stars": 2509
+            "stars": 2511
           }
         },
         {
@@ -3308,7 +3308,7 @@
             "last_commit": "2018-06-21T15:57:29Z",
             "owner": "hadley",
             "repo": "stats337",
-            "stars": 1614
+            "stars": 1613
           }
         }
       ],
@@ -3506,7 +3506,7 @@
             "last_commit": "2018-06-21T15:57:29Z",
             "owner": "hadley",
             "repo": "stats337",
-            "stars": 1614
+            "stars": 1613
           }
         }
       ],
@@ -3538,7 +3538,7 @@
             "last_commit": "2025-06-18T20:15:42Z",
             "owner": "tidyverse",
             "repo": "tidyverse",
-            "stars": 1794
+            "stars": 1796
           }
         },
         {
@@ -3603,7 +3603,7 @@
             "last_commit": "2026-04-21T22:38:06Z",
             "owner": "tidyverse",
             "repo": "glue",
-            "stars": 748
+            "stars": 749
           }
         },
         {
@@ -3702,7 +3702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:14:23.950Z",
+    "last_updated": "2026-06-06T05:48:00.614Z",
     "original_repository": "qinwf/awesome-R",
     "source_repository": "v1nvn/enhansome-R",
     "source_repository_description": null,
